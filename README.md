@@ -31,7 +31,6 @@
     #安装插件 python3-pyqt5.qtwebkit
     8  sudo apt-get install python3-pyqt5.qtwebkit
     #下载代码
-    >>>
     9   git clone https://github.com/yetHandsome/pyqt5-browser.git
    10  ls
    11  cd pyqt5-browser
