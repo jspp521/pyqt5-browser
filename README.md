@@ -3,7 +3,7 @@
   
   vagrant init   ubuntu/trusty64
   
-  将vagrant 里面 vb.gui = true 注释放开
+  将 Vagrantfile 里面 vb.gui = true 注释放开
 ```
    config.vm.provider "virtualbox" do |vb|
   #   # Display the VirtualBox GUI when booting the machine
